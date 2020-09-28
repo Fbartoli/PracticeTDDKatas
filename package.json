@@ -1,0 +1,20 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:cover": "jest --coverage",
+    "test:watch": "jest --watchAll --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "@types/jest": "^26.0.14",
+    "babel": "^6.23.0",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2"
+  }
+}
